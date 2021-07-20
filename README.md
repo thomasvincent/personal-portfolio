@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-### Hi there 👋
-
 I'm Thomas (he/him). My `$dayjob` is lots of different things. 
 [![Thomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomasvincent)](https://github.com/thomasvincent/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasvincent)](https://github.com/thomasvincent/github-readme-stats)
@@ -15,4 +12,3 @@ I'm Thomas (he/him). My `$dayjob` is lots of different things.
 - 💬 Ask me about devops
 - 📫 How to reach me: email
 - ⚡ Fun fact: I am big into dog rescue
--->
