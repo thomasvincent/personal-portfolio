@@ -2,7 +2,7 @@
 
 I'm Thomas (he/him).
 
-[![Thomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomasvincent)](https://github.com/thomasvincent/github-readme-stats)
+[![Thomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomasvincent&count_private=true)](https://github.com/thomasvincent/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasvincent)](https://github.com/thomasvincent/github-readme-stats)
 
