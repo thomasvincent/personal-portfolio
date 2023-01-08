@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 I'm Thomas (he/him).
-
+- My 2023 resolution is to go through all the repos and either archive them, delete them, or update them to the latest version of python, ruby, etc.
+- 
 [![Thomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomasvincent&count_private=true&show_icons=true)](https://github.com/thomasvincent/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasvincent)](https://github.com/thomasvincent/github-readme-stats)
