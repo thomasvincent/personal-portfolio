@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My 2023 resolution is to systematically review all repositories, with the goal of either archiving them, deleting them, or upgrading them to the latest version of programming languages such as Python or Ruby.2023 resolution is to go through all the repos and either archive them, delete them, or update them to the latest version of python, ruby, etc.
+For my 2023 New Year's resolution, I aim to update all the repositories in my GitHub account to the latest versions of Chef, Puppet, Terraform, Python, Ruby, Golang, and Java. Additionally, I plan to enhance the overall design and functionality of the code by applying SOLID. DRY influenced by DevOps principles.
 
 [![Thomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomasvincent&count_private=true&show_icons=true)](https://github.com/thomasvincent/github-readme-stats)
 
