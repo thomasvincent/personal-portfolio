@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to my GitHub profile! My name is Thomas Vincent, and I am a DevOps engineer with a passion for software development. For my 2023 New Year's resolution, I aim to update all the repositories in my GitHub account to the latest versions of Chef, Puppet, Terraform, Python, Ruby, Golang, and Java. Additionally, I plan to enhance the overall design and functionality of the code by applying SOLID and DRY DevOps principles.
+Conquered 2023's DevOps refresh! Upgraded all my repos to the latest Chef, Puppet, Terraform, Python, Ruby, Golang, and Java.  Now, I'm on a mission to craft even cleaner, more maintainable code using SOLID and DRY principles.  Open to collaboration on interesting projects!
 
 ## About Me
 
